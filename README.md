@@ -1,2 +1,4 @@
-# upskillCampus
-## Url shortener project is developed using python for shortening the code and HTML5 and CSS3 are used to design the Graphical User Interface for smooth user experience.
+<h1>upskillCampus</h1>
+<p>
+    Url shortener project is developed using python for shortening the code and HTML5 and CSS3 are used to design the Graphical User Interface for smooth user experience.
+</p>
